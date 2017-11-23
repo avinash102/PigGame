@@ -1,2 +1,2 @@
 # PigGame
-Dice Game
+  It  is a Dice game which is played between two players. 
